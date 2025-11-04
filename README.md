@@ -13,7 +13,20 @@ Control your computer and create art using just your hands and webcam! This proj
 
 ---
 
-## 🚀 Quick Start
+## � Screenshots
+
+### Modern Launcher
+![Launcher](screenshots/launcher.png)
+
+### Air Canvas - Draw in the Air
+![Air Canvas](screenshots/air_canvas.png)
+
+### Gesture Music Controller
+![Music Controller](screenshots/music_controller.png)
+
+---
+
+## �🚀 Quick Start
 
 **Run the Modern Launcher:**
 ```bash
